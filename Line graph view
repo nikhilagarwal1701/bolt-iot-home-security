@@ -1,0 +1,5 @@
+setChartLibrary('google-chart');
+setChartTitle('Distance Graph');
+setChartType('lineGraph');
+setAxisName('time','distance');
+plotChart('time','distance');
